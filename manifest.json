@@ -1,11 +1,11 @@
 {
-    "name": "mgw",
-    "short_name": "mgw",
+    "name": "MGW",
+    "short_name": "MGW",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Calculate next wod",
+    "description": "Calculate your nex wod",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
